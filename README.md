@@ -4,6 +4,6 @@ Questo è uno script batch per l'esecuzione di macchine virtuali da riga di coma
 
 Requisiti:
 
+- Amministratore della macchina host
 - Hyper-v
-- Macchine virtuali configurate
-- Amministratore della macchina guest
+- Macchine virtuali già installate e configurate
